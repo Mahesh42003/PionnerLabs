@@ -1,0 +1,141 @@
+.hands-clapping {
+  color: yellow;
+}
+
+.span-element {
+  color: chartreuse;
+}
+
+.Name {
+  color: #ffffff;
+}
+
+.spot-trading {
+  color: green;
+  font-weight: bold;
+}
+
+.flexing1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.start-trading-button {
+  height: 32px;
+  width: 100px;
+  border: none;
+  margin-top: 20px;
+  margin-right: 10px;
+  border-radius: 10px;
+  background-color: chartreuse;
+  color: #ffffff;
+  margin-left: 200px;
+  text-align: right;
+}
+.start-trading-button1 {
+  height: 32px;
+  width: 100px;
+  border: none;
+  margin-top: 20px;
+  margin-right: 10px;
+  border-radius: 10px;
+  background-color: chartreuse;
+  color: #ffffff;
+}
+.census-graph {
+  background-color: black;
+  height: 40vh;
+  width: 90%;
+  margin-left: 15px;
+}
+
+.sourceName-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 10px;
+  padding-top: 10px;
+}
+
+.Trading-button {
+  margin-top: 10px;
+  margin-left: 220px;
+}
+
+.flexing2 {
+  display: flex;
+}
+
+.margin-top-graph {
+  margin-top: 120px;
+  margin-left: 80px;
+}
+
+.census-graph1 {
+  background-color: black;
+  height: 55vh;
+  width: 35%;
+  margin-left: 25px;
+  margin-top: 150px;
+}
+
+.recent-posts {
+  text-align: center;
+}
+
+.inside-recent-post {
+  background-color: blueviolet;
+  margin: 10px;
+  height: 40vh;
+  display: flex;
+}
+
+.recent-post-logo-size {
+  border-radius: 30px;
+  height: 50px;
+  width: 50px;
+}
+
+.data-logo {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.description {
+  color: #ffffff;
+  font-family: 10px;
+}
+
+.each-card-bitcoin-background-color {
+  background-color: darkkhaki;
+  height: 32vh;
+  width: 25%;
+  margin: 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.trade-button {
+  height: 32px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: green;
+  color: #ffffff;
+}
+
+.trade-button1 {
+  height: 32px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: pink;
+  color: blue;
+}
+
+.trade-button2 {
+  height: 32px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: aqua;
+}

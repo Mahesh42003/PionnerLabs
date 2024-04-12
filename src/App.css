@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logo-size {
+  height: 80px;
+  width: 80px;
+  margin-top: 10px;
+}
+
+.hamburger-icon-size {
+  width: 50px;
+  color: #ffffff;
+  margin-top: 50px;
+}
+
+.App-Page-background-color {
+  background-color: black;
+  height: 125vh;
+  width: 20%;
+}
+
+.combination-of-logo-and-hamburger {
+  display: flex;
+  justify-content: space-between;
+}
+
+.searching {
+  display: flex;
+}
+
+.input-search {
+  height: 30px;
+}
+
+.flexing {
+  display: flex;
+}
+
+.second-page-background-color {
+  background-color: darkslategray;
+  height: 125vh;
+  width: 80%;
+}
